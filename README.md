@@ -8,4 +8,4 @@
 >[!Important]
  > `Dupla:`
 >- Christian Varandas
->- Pedro Santos
+>- Pedro Santos Menezes de Jesus
